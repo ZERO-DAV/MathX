@@ -1,6 +1,6 @@
 # MathX
 
-![MathX Logo]([https://via.placeholder.com/150](https://zero-dav.github.io/MathX/MathX.png))
+![MathX Logo](https://zero-dav.github.io/MathX/MathX.png)
 
 ## مقدمة
 **MathX** هي منصة تعليمية متخصصة في تدريس الرياضيات عبر الإنترنت، تهدف إلى توفير بيئة تعليمية تفاعلية تسهّل على الطلاب تعلم المفاهيم الرياضية من خلال دروس مشروحة، تمارين تفاعلية، واختبارات دورية.
